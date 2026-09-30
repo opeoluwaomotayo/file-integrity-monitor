@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+baseline.json
+*-baseline.json
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
